@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'BMjua';
+    src: url('./BMJUA.ttf');
+}
+body{
+    font-family: 'BMjua';
+  }
